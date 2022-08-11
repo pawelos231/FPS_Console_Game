@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FPS_Game", "FPS_Game\FPS_Game.vcxproj", "{DF21B388-BD50-41A2-BD5D-44A4C70215ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF21B388-BD50-41A2-BD5D-44A4C70215ED}.Debug|x64.ActiveCfg = Debug|x64
+		{DF21B388-BD50-41A2-BD5D-44A4C70215ED}.Debug|x64.Build.0 = Debug|x64
+		{DF21B388-BD50-41A2-BD5D-44A4C70215ED}.Debug|x86.ActiveCfg = Debug|Win32
+		{DF21B388-BD50-41A2-BD5D-44A4C70215ED}.Debug|x86.Build.0 = Debug|Win32
+		{DF21B388-BD50-41A2-BD5D-44A4C70215ED}.Release|x64.ActiveCfg = Release|x64
+		{DF21B388-BD50-41A2-BD5D-44A4C70215ED}.Release|x64.Build.0 = Release|x64
+		{DF21B388-BD50-41A2-BD5D-44A4C70215ED}.Release|x86.ActiveCfg = Release|Win32
+		{DF21B388-BD50-41A2-BD5D-44A4C70215ED}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D980996C-055C-4F47-B0B6-F68ECEFC79B9}
+	EndGlobalSection
+EndGlobal
